@@ -1,1 +1,1 @@
-# Banking_website
+# BankingWebsite.github.io
